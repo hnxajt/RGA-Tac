@@ -1,0 +1,19 @@
+{
+  "dataset_root": "data/TVL-revise/tvl_dataset",
+  "tvl_root": "vendor/tvl",
+  "llama_dir": "weights/llama-2",
+  "checkpoints": {
+    "tiny": {
+      "tvl_encoder_checkpoint": "weights/tvl_enc_vittiny.pth",
+      "tvl_llama_checkpoint": "weights/tvl_llama_vittiny.pth"
+    },
+    "small": {
+      "tvl_encoder_checkpoint": "weights/tvl_enc_vits.pth",
+      "tvl_llama_checkpoint": "weights/tvl_llama_vits.pth"
+    },
+    "base": {
+      "tvl_encoder_checkpoint": "weights/tvl_enc_vitb.pth",
+      "tvl_llama_checkpoint": "weights/tvl_llama_vitb.pth"
+    }
+  }
+}

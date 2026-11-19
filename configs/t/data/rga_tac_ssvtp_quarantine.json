@@ -1,0 +1,40 @@
+{
+  "rows": [
+    {
+      "source_id": "ssvtp_train_000134",
+      "reason": "over_5_normalized_original_target_terms"
+    },
+    {
+      "source_id": "ssvtp_train_000334",
+      "reason": "empty_normalized_original_target"
+    },
+    {
+      "source_id": "ssvtp_train_001075",
+      "reason": "over_5_normalized_original_target_terms"
+    },
+    {
+      "source_id": "ssvtp_train_001081",
+      "reason": "over_5_normalized_original_target_terms"
+    },
+    {
+      "source_id": "ssvtp_train_002290",
+      "reason": "empty_normalized_original_target"
+    },
+    {
+      "source_id": "ssvtp_train_002746",
+      "reason": "empty_normalized_original_target"
+    },
+    {
+      "source_id": "ssvtp_train_004188",
+      "reason": "empty_normalized_original_target"
+    },
+    {
+      "source_id": "ssvtp_train_004255",
+      "reason": "over_5_normalized_original_target_terms"
+    },
+    {
+      "source_id": "ssvtp_train_004547",
+      "reason": "over_5_normalized_original_target_terms"
+    }
+  ]
+}
